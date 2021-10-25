@@ -2,3 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
+.red {
+  background-color: red;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
